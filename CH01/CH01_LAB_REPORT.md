@@ -2,7 +2,7 @@
 
 ## Student Information
 - **Name:** [Uziel Beltran]
-- **Date:** [Feb 1, 2026]
+- **Date:** [02/01/2026]
 - **Course:** COSC 2436
 
 ## Algorithm Summary
