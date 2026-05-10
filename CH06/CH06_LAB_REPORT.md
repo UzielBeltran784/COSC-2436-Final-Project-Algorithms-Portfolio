@@ -2,7 +2,7 @@
 
 ## Student Information
 - **Name:** [Uziel Beltran]
-- **Date:** [03/08//20206]
+- **Date:** [03/08//2026]
 
 ## Key Concepts
 [BFS, which stands for Breadth-First Search is used to searcg nodes in a graph bu using a queue. It makes sure that the first layer of nodes is fully explored before moving onto the second.]
